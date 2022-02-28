@@ -1,26 +1,26 @@
 # MyGram
 
-/users/register
-/users/login
-/users/update/:id
-/users/detele
+# Post /users/register
+# Get /users/login
+# Put /users/update/:id
+# Delete /users/detele
 
-/photos/create
-/photos
-/photos/update/:id
-/photos/delete/:id
+# Post /photos/create
+# Get /photos
+# Put /photos/update/:id
+# Delete /photos/delete/:id
 
-/comments/create
-/comments
-/comments/update/:id
-/comments/delete/:id
+# Post /comments/create
+# Get /comments
+# Put /comments/update/:id
+# Delete /comments/delete/:id
 
-/socialmedias/create
-/socialmedias
-/socialmedias/update/:id
-/socialmedias/delete/:id
+# Post /socialmedias/create
+# Get /socialmedias
+# Put /socialmedias/update/:id
+# Delete /socialmedias/delete/:id
 
-request body sesuai dengan petunjuk yg diberikan
+# request body sesuai dengan petunjuk yg diberikan
 
-framework beego
-github.com/gorilla/context untuk oper data
+# framework beego
+# github.com/gorilla/context untuk oper data
