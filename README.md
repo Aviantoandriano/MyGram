@@ -20,6 +20,8 @@
 # Put /socialmedias/update/:id
 # Delete /socialmedias/delete/:id
 
+# Authorization Bearer (jwt token)
+
 # request body sesuai dengan petunjuk yg diberikan
 
 # framework beego
